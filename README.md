@@ -5,3 +5,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aohana-ao&show_icons=true&locale=en" alt="aohana-ao" /></p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aohana-AO&layout=compact&theme=dracula)
