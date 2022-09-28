@@ -15,6 +15,8 @@
 
   <p><a href='https://github.com/aohana-AO/hinannproject'>django 避難拠点・防災APP</a></p>
   <p><a href='https://github.com/aohana-AO/culture_property'>django 松山市文化財リスト</a></p>
+  ![image](https://user-images.githubusercontent.com/84378453/192708067-ecccf4b6-85e5-49df-8ea4-e2d5e6f83a59.png)
+
   <p><a href='https://github.com/aohana-AO/android-burakura'>androidstudio timer-burakura</a></p>
   <p><a href='https://github.com/aohana-AO/aedapp2'>django aed・医療機関leafletマップ</a><p>
   <p><a href='https://github.com/aohana-AO/museum'>django 美術館サイトデモ</a></p>
