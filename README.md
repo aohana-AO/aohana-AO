@@ -7,7 +7,9 @@
 
 
 <h3>🔨made</h3>
-  <p><a href='https://github.com/aohana-AO/hinannproject'>django 愛媛県避難拠点・防災APP</a></p>
+　<p><a href='https://github.com/aohana-AO/vol6-TemperatureSenseForecastMap'>tsfm vol6ハッカソン努力賞　技育展優秀賞作品</a></p>
+　<p><a href='https://github.com/aohana-AO/tornado-mysite'>NeighbAc　tornado2022優秀賞作品</a></p>
+  <p><a href='https://github.com/aohana-AO/hinannproject'>django 避難拠点・防災APP</a></p>
   <p><a href='https://github.com/aohana-AO/culture_property'>django 松山市文化財リスト</a></p>
   <p><a href='https://github.com/aohana-AO/android-burakura'>androidstudio timer-burakura</a></p>
   <p><a href='https://github.com/aohana-AO/aedapp2'>django aed・医療機関leafletマップ</a><p>
