@@ -6,12 +6,11 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aohana-ao&show_icons=true&locale=en" width="420" alt="aohana-ao" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aohana-AO&layout=compact&theme=dracula" alt="aohana-ao" />
 
 
-<h3>🔨made</h3>
-　　<p><a href='https://github.com/aohana-AO/vol6-TemperatureSenseForecastMap'>tsfm vol6努力賞　技育展優秀賞作品</a></p>
-  ![image](https://user-images.githubusercontent.com/84378453/192707120-79ee4bf1-4d23-4887-96e6-afa680d3c838.png)
-
+<h2>🔨made</h2>
+　<p><a href='https://github.com/aohana-AO/vol6-TemperatureSenseForecastMap'>tsfm vol6努力賞　技育展優秀賞作品</a></p>
 　<p><a href='https://github.com/aohana-AO/tornado-mysite'>NeighbAc　tornado2022優秀賞作品</a></p>
  ![image](https://user-images.githubusercontent.com/84378453/192707081-ff5c99c2-78ee-4dc3-ab6d-14afe12e11de.png)
+![image](https://user-images.githubusercontent.com/84378453/192707475-bfd646d9-2082-4798-b1c4-30d3ac86f1a6.png)
 
   <p><a href='https://github.com/aohana-AO/hinannproject'>django 避難拠点・防災APP</a></p>
   <p><a href='https://github.com/aohana-AO/culture_property'>django 松山市文化財リスト</a></p>
