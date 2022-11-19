@@ -5,11 +5,14 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aohana-ao&show_icons=true&locale=en" width="420" alt="aohana-ao" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aohana-AO&layout=compact&theme=dracula" alt="aohana-ao" />
 
-<h2><a href='https://joshi-engineer.com/portfolio-ao'>【技術ブログ】ポートフォリオ、インターン経験記事 https://joshi-engineer.com/portfolio-ao</a></h2>
+<h2><a href='https://joshi-engineer.com/portfolio-ao'>【技術ブログ】ポートフォリオ、インターン経験記事</a></h2>
 
 <h2>保有資格</h2>
+
 - 応用情報技術者 2022 6月
+
 - 情報セキュリティマネジメント2021 12月
+
 - 基本情報技術者 2021 10月
 
 
