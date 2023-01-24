@@ -12,7 +12,8 @@
 
 
 <h2>🔨made</h2>
-　
+  
+　<p><a href='https://github.com/aohana-AO/inuneko2'>研究開発授業作品　いぬねこhealth</a></p>
 　<p><a href='https://github.com/aohana-AO/tornado-mysite'>NeighbAc　tornado2022優秀賞作品</a></p>
   <p><a href='https://github.com/aohana-AO/vol6-TemperatureSenseForecastMap'>tsfm vol6努力賞　技育展優秀賞作品</a></p>
   <p><a href='https://github.com/aohana-AO/hinannproject'>django 避難拠点・防災APP</a></p>
