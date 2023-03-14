@@ -2,7 +2,7 @@
   
   <h2><a href='https://joshi-engineer.com/portfolio-ao'>【技術ブログ】ポートフォリオ、インターン経験記事</a></h2>
 
-<h2>保有資格</h2>
+<h2>certification</h2>
 
 - 応用情報技術者 2022 6月
 
