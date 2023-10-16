@@ -1,6 +1,6 @@
 <center>
   
-  <h2><a href='https://joshi-engineer.com/portfolio-ao'>【技術ブログ】ポートフォリオ、インターン経験記事</a></h2>
+  <h2><a href='https://joshi-engineer.com/portfolio-ao'>About me - 経歴・ポートフォリオ記事</a></h2>
 
 <h2>certification</h2>
 
