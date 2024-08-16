@@ -4,6 +4,8 @@
 
 <h2>certification</h2>
 
+- CPA（Google Cloud）
+
 - 応用情報技術者 2022 6月
 
 - 情報セキュリティマネジメント2022 1月
